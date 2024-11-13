@@ -1,8 +1,8 @@
 # Activity Recognition - With Encryption - DPO Decoding
-## [server.py](https://devecorridor.iit.cnr.it/gitlab/kmoulouel/activityrecognition/blob/master/server.py)
-The version of the [IAI-skeleton is 1.4.2](https://devecorridor.iit.cnr.it/gitlab/dalbanese/iai-skeleton/-/tree/v1.4.2).    
+## [server.py](https://github.com/MorphSeur/activity_recognition/blob/main/server.py)
+The version of the IAI-skeleton is 1.4.2.    
 The activity recognition library is integrated with the new trained models - lissilab.  
-[server.py](https://devecorridor.iit.cnr.it/gitlab/kmoulouel/activityrecognition/blob/master/server.py) performs decoding of .dpo files, and activity recognition.
+[server.py](https://github.com/MorphSeur/activity_recognition/blob/main/server.py) performs decoding of .dpo files, and activity recognition.
 
 To run an example:
 - Start the analytic server:
@@ -19,7 +19,7 @@ To run an example:
     ```
 
 ## Requirements
-- Please refer to [requirements.txt](https://devecorridor.iit.cnr.it/gitlab/kmoulouel/activityrecognition/blob/master/requirements.txt).
+- Please refer to [requirements.txt](https://github.com/MorphSeur/activity_recognition/blob/main/requirements.txt).
 - Python 3.7.7 was used.
 
 ## Dockerfile
